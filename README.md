@@ -10,3 +10,4 @@ T 尝 试
 nimabi
 T 回收
 用来保存代码试试？
+cmd try
